@@ -21,24 +21,32 @@ Here are the languages that i learned and used so far:
 <code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"></code>
 
 I also learned and used :
-<br>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50">
-<img src="./assests/mariadb_logo_icon_168996.png" alt="MariaDB" width="90" height="55">
 
-<img src="./assests/Apache_Software_Foundation_Logo_(2016).svg.png" alt="Apache" width="100" height="50">
-<img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" alt="Nginx" width="100" height="50">
+<div classname="DataBase">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50">
+    <img src="./assests/mariadb_logo_icon_168996.png" alt="MariaDB" width="90" height="55">
+</div>
 
-<img src="./assests/Rocky_Linux_logo.svg" alt="GNU/Linux" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
+<div classname="WebHost">
+    <img src="./assests/Apache_Software_Foundation_Logo_(2016).svg.png" alt="Apache" width="100" height="50">
+    <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" alt="Nginx" width="100" height="50">
+</div>
 
+<div classname="Linux">
+    <img src="./assests/Rocky_Linux_logo.svg" alt="GNU/Linux" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
+</div>
+
+<div classname="Cisco">
 <img src="./assests/Symbole-Cisco.jpg" alt="Cisco" width="100" height="50">
+</div>
 
-<img src="./assests/Vagrant.png" alt="Vagrant" width="50" height="50">
-<img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="VBox" width="53" height="60">
-<img src="./assests/Ansible_logo.svg" alt="Vagrant" width="50" height="50">
-<img src="./assests/Logo-Docker-1.jpg" alt="Docker" width="50" height="50">
-
-</br>
+<div classname="Boxes">
+    <img src="./assests/Vagrant.png" alt="Vagrant" width="50" height="50">
+    <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="VBox" width="53" height="60">
+    <img src="./assests/Ansible_logo.svg" alt="Vagrant" width="50" height="50">
+    <img src="./assests/Logo-Docker-1.jpg" alt="Docker" width="50" height="50">
+</div>
 
 My most used languages :
 
