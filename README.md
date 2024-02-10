@@ -21,7 +21,7 @@ Here are the languages that i learned and used so far:
 <code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"></code>
 
 I also learned and used :
-
+<br>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50">
 <img src="./assests/mariadb_logo_icon_168996.png" alt="MariaDB" width="90" height="55">
 
@@ -38,14 +38,16 @@ I also learned and used :
 <img src="./assests/Ansible_logo.svg" alt="Vagrant" width="50" height="50">
 <img src="./assests/Logo-Docker-1.jpg" alt="Docker" width="50" height="50">
 
+</br>
+
 My most used languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeyDeyNc&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeyDeyNc&layout=compact)
 
 
  #### I am currently learning : 
 
-![ReactJS](https://reactjs.org/favicon.ico)
+<code>![ReactJS](https://reactjs.org/favicon.ico)</code>
 
 </body>
 
