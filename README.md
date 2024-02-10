@@ -3,7 +3,7 @@
 <h1>
 Welcome to MeyDey's GitHub page!
 
-![Hello There](assests\Hello_There.gif) 
+![Hello There](./assests/Hello_There.gif)
 </h1>
 
 <h2>
@@ -13,12 +13,12 @@ I am a young developer trying to make his way through the GitHub galaxy.
 <body>
 Here are the languages that i learned and used so far:
 
-<img src="https://www.python.org/static/favicon.ico" alt="Python" width="50" height="50">
-<img src="https://golang.org/favicon.ico" alt="Golang" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50">
+<code><img src="https://www.python.org/static/favicon.ico" alt="Python" width="50" height="50"></code>
+<code><img src="https://golang.org/favicon.ico" alt="Golang" width="50" height="50"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" height="50"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"></code>
 
 I also learned and used :
 

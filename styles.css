@@ -16,4 +16,5 @@ h2 {
 body {
     background-color: #0C120C;
     color: #EEF0F2;
+    display: inline-block;
 }
