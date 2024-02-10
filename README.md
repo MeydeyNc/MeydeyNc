@@ -1,10 +1,14 @@
 <link rel="stylesheet" href="./styles.css">
 
-<h1>
-Welcome to MeyDey's GitHub page!
-
-![Hello There](./assests/Hello_There.gif)
+<h1 align="center">
+    <a>
+        Welcome to MeyDey's GitHub page!
+    </a>
 </h1>
+
+<p align="center">
+    <img src="./assests/Hello_There.gif" alt="Hello There" width="60%" height="50%">
+</p>
 
 <h2>
 I am a young developer trying to make his way through the GitHub galaxy.
@@ -23,8 +27,8 @@ Here are the languages that i learned and used so far:
 I also learned and used :
 
 <div classname="DataBase">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50">
-    <img src="./assests/mariadb_logo_icon_168996.png" alt="MariaDB" width="90" height="55">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="70" height="50">
+    <img src="./assests/mariadb_logo_icon_168996.png" alt="MariaDB" width="100" height="55">
 </div>
 
 <div classname="WebHost">
