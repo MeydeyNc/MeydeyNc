@@ -63,7 +63,7 @@
 
 ### I am currently learning
 
-<code>![ReactJS](https://reactjs.org/favicon.ico)</code>
+![NextJS](https://nextjs.org/favicon.ico)
 
 </body>
 
