@@ -63,7 +63,7 @@
 
 ### I am currently learning
 
-![Astro]()
+![Astro](./assests/astro-icon-light-gradient.svg)
 
 </body>
 
