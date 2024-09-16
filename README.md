@@ -63,7 +63,7 @@
 
 ### I am currently learning
 
-![Astro](https://cdn.worldvectorlogo.com/logos/astrojs.svg)
+![Astro]()
 
 </body>
 
