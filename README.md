@@ -24,7 +24,9 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" height="50"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"></code>
+<code><img src="https://nextjs.org/favicon.ico" alt="NextJs"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="30" height="50"></code>
+
 </br>
 
 
@@ -37,7 +39,7 @@
 </br>
 <div classname="WebHost">
     <img src="./assests/Apache_Software_Foundation_Logo_(2016).svg.png" alt="Apache" width="100" height="50">
-    <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" alt="Nginx" width="100" height="50">
+    <img src="https://nginx.org/favicon.ico" alt="Nginx">
 </div>
 </br>
 <div classname="Linux">
@@ -46,14 +48,14 @@
 </div>
 </br>
 <div classname="Cisco">
-<img src="./assests/Symbole-Cisco.jpg" alt="Cisco" width="100" height="50">
+<img src="./assests/Symbole-Cisco.jpg" alt="Cisco" width=75" height="50">
 </div>
 </br>
 <div classname="Boxes">
-    <img src="./assests/Vagrant.png" alt="Vagrant" width="50" height="50">
-    <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="VBox" width="53" height="60">
-    <img src="./assests/Ansible_logo.svg" alt="Vagrant" width="50" height="50">
-    <img src="./assests/Logo-Docker-1.jpg" alt="Docker" width="50" height="50">
+    <code><img src="./assests/Vagrant.png" alt="Vagrant" width="50" height="50"></code>
+    <code><img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="VBox" width="53" height="60"></code>
+    <code><img src="./assests/Ansible_logo.svg" alt="Vagrant" height="50"></code>
+    <code><img src="./assests/Logo-Docker-1.jpg" alt="Docker" width="50" height="50"></code>
 </div>
 </br>
 
