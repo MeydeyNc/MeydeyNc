@@ -63,7 +63,7 @@
 
 ### I am currently learning
 
-![NextJS](https://nextjs.org/favicon.ico)
+![Astro](https://cdn.worldvectorlogo.com/logos/astrojs.svg)
 
 </body>
 
